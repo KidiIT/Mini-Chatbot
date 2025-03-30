@@ -1,0 +1,15 @@
+[2025-03-30 21:25:55] User: hello 
+[2025-03-30 21:25:55] Bot: Hi there!, How can i assit you today? 
+
+[2025-03-30 21:26:02] User: how are you 
+[2025-03-30 21:26:02] Bot: I'm just a bot, but i'm doing great! How about you 
+
+[2025-03-30 21:26:22] User: what is your name 
+[2025-03-30 21:26:22] Bot: I'm not sure how to respond to that. Try asking something else. 
+
+[2025-03-30 21:26:28] User: help 
+[2025-03-30 21:26:28] Bot: I can answer questions like: 'hello', 'how are you','what is your name', or 'bye'.  
+
+[2025-03-30 21:26:38] User: bye 
+[2025-03-30 21:26:38] Bot: Goodbye! Have a great day! 
+
